@@ -1,2 +1,2 @@
-host: x86_64 Linux 4.9.0-11-amd64
-gcc version 6.3.0 20170516 (Debian 6.3.0-18+deb9u1) 
+host: x86_64 Linux 5.8.15-301.fc33.x86_64
+gcc version 10.2.1 20201125 (Red Hat 10.2.1-9) (GCC) 
